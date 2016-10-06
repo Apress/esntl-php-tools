@@ -1,0 +1,1 @@
+$dbh->dropSequence('flavors');

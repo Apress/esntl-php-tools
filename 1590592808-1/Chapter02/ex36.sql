@@ -1,0 +1,14 @@
+INSERT INTO eaters VALUES (1,'Ireneo Funes');
+INSERT INTO eaters VALUES (2,'Bioy Casares');
+INSERT INTO eaters VALUES (3,'John Vincent Moon');
+INSERT INTO eaters VALUES (4,'Teodelina Villar');
+INSERT INTO orders VALUES (1,2);
+INSERT INTO orders VALUES (1,3);
+INSERT INTO orders VALUES (1,4);
+INSERT INTO orders VALUES (2,4);
+INSERT INTO orders VALUES (2,3);
+INSERT INTO orders VALUES (3,1);
+INSERT INTO orders VALUES (4,1);
+INSERT INTO orders VALUES (4,4);
+INSERT INTO orders VALUES (2,4);
+INSERT INTO orders VALUES (3,1);

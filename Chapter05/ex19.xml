@@ -1,0 +1,18 @@
+<page>
+<header title="Ice Cream Order Page">
+Ice Cream Flavors
+</header>
+
+<content><![CDATA[
+<ul style="creamy">
+]]></content>
+
+<?php
+$flavors = array('Vanilla','Chocolate','Steamed Banana');
+foreach ($flavors as $f) { print "<li> $f </li>\n"; }
+?>
+
+<content><![CDATA[</ul>]]></content>
+
+<footer/>
+</page>

@@ -1,0 +1,10 @@
+<page>
+<header title="Flavor List">
+Ice Cream Flavors
+</header>
+<?php
+$flavors = array('Vanilla','Chocolate','Steamed Banana');
+foreach ($flavors as $f) { print "$f<p>\n"; }
+?>
+  <footer/>
+</page>

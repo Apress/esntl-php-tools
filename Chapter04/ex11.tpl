@@ -1,0 +1,1 @@
+{$smarty.request.link|escape}
